@@ -1,8 +1,4 @@
 /******************************************************************************
-* Bellevue Class: CS-210
-*           Term: Spring 2017
-*     Instructor: Robert Main
-*     
 * Textbook: Building Java Programs, A Back to Basics Approach
 *  Edition: 3rd
 *  Authors: Stuart Reges and Marty Stepp
