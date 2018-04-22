@@ -1,7 +1,5 @@
 /******************************************************************************
-* Bellevue Class: CS-210
-*           Term: Winter 2017
-*     Instructor: Robert Main
+* This is a program to calculate the monthly loans 
 *
 * Textbook: Building Java Programs, A Back to Basics Approach
 *  Edition: 3rd
