@@ -1,21 +1,16 @@
 /******************************************************************************
- * Bellevue Class: CS-210
- *     Instructor: Robert Main
  *     
  * Textbook: Building Java Programs, A Back to Basics Approach, 3rd Edition
  *  Authors: Stuart Reges and Marty Stepp
  *
- * Instructor Project Solution
  *
  * Assigned Project: 9
  *         Exercise: 11, 12, and 13
  *
- * Class/File Name: Project9_BankAcount
  *
  * Revision     Date                        Release Comment
  * --------  ----------  ------------------------------------------------------
- *   1.0     06/12/2015  Initial Release
- *
+ *   1.0     06/12/2017  Initial Release
  *
  * File Description
  * ----------------
